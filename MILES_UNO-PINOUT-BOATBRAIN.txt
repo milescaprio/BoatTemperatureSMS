@@ -1,0 +1,9 @@
+boat brain pinout
+
+A0 -> (red then orange) thermistorpina
+5V -> (white1) common breadboard 5V
+CB5V (common breadboard 5V) -> thermistorpinb
+CB5V -> (blue) DHT5V
+DHTDATA -> (yellow) D3
+CBGND (common breadboard GND) -> (white2) GND
+CBGND -> (white3) DHTGND
